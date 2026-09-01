@@ -1,0 +1,6 @@
+# Ignore all files by default
+*
+
+# Allow only the Jupyter Notebook file and .gitignore
+!Lab_Assignment_3_AI_in_Healthcare.ipynb
+!.gitignore
