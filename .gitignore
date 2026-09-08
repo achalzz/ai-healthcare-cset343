@@ -4,4 +4,5 @@
 # Allow only the Jupyter Notebook files and .gitignore
 !Lab_Assignment_2_AI_in_Healthcare.ipynb
 !Lab_Assignment_3_AI_in_Healthcare.ipynb
+!Lab_Assignment_4_AI_in_Healthcare.ipynb
 !.gitignore
